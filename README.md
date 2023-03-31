@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://giphy.com/embed/wwg1suUiTbCY8H8vIA](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)" align="center" style="width: 100%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e6fd0ea7-0117-4141-9ef5-86b43d377c71/d1sdxuf-529c94b5-9c95-4fdd-87de-64819eaa9940.jpg/v1/fill/w_1032,h_774,q_75,strp/batman_matrix_2_by_abhishekbhoite.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lNmZkMGVhNy0wMTE3LTQxNDEtOWVmNS04NmI0M2QzNzdjNzEvZDFzZHh1Zi01MjljOTRiNS05Yzk1LTRmZGQtODdkZS02NDgxOWVhYTk5NDAuanBnIiwid2lkdGgiOiI8PTEwMzIiLCJoZWlnaHQiOiI8PTc3NCJ9XV19.SNz2qY0QmDALRpeVaHn6ld-OEIkTO-_0h5lD3MVptSY" align="center" style="width: 100%" />
 </div>  
 
 ![](https://github.com/sreeragm333/giphy.gif)

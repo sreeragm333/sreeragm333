@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Flutter and Web development  
   
 
-- ⚡ Fun fact: I'm 3 in one filmmaker, developer and musician  
+- ⚡ Fun fact: I'm batman😌  
   
 
 <br/>  

@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Flutter and Web development  
   
 
-- ⚡ Fun fact: I'm batman😌  
+- ⚡ Fun fact: I'm batman🦇  
   
 
 <br/>  

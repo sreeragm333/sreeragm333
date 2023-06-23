@@ -1,5 +1,5 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>  
 ### <div align="center">I'm Sreerag M, a passionate Engineering student from India.</div>  
   

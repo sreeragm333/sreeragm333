@@ -1,5 +1,5 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>  
 ### <div align="center">I'm Sreerag M, a passionate Engineering student from India.</div>  
   

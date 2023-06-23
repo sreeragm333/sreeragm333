@@ -34,6 +34,8 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="javascript" height="50" /></a>  " alt="javascript" height="50" /></a>  
+<a href="(https://react.dev/" target="_blank"><img style="margin: 10px" src=" https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" /></a>
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>

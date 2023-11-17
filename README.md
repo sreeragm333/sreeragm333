@@ -4,7 +4,7 @@
 ### <div align="center">I'm Sreerag M, a passionate Engineering student from India.</div>  
   
 
-- 🌱 I’m currently learning Flutter and Web development  
+- 🌱 Trying to become better than my yesterday version.
   
 
 - ⚡ Fun fact: I'm batman🦇  
